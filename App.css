@@ -1,0 +1,13 @@
+*{
+	font-size:30px;
+}
+.nav{
+	background-color:orange;
+}
+.nav a{
+	color:black;
+	text-decoration:None;
+	margin:80px;
+
+
+}
